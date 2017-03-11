@@ -46,7 +46,7 @@
 
 ## 开发
 
-## 开发前准备
+### 开发前准备
 
 `git clone git@github.com:Alex-xd/there-are-lots-of-people-in-Baiyun-airport.git`
 
