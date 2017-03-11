@@ -1,4 +1,4 @@
-# there-are-lots-of-people-in-Baiyun-airport
+# webpack-scaffolds
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
@@ -37,23 +37,22 @@
 │   │   │   └── variables.scss                      全局变量
 │   │   ├── image                                   图片
 │   │   └── lib                                     外部依赖库（使用npm安装后软连接到此目录）
-│   │       └── echarts.js                  
+│   │                     
 │   ├── index.html                                  源HTML文件
 │   └── main.js                                     项目入口
 ├── static                                          打包生成的静态资源
-│   ├── 912ec66d7572ff821749319396470bde.svg
-│   ├── af7ae505a9eed503f8b8e6982036873e.woff2
-│   ├── b06871f281fee6b241d60582ae9369b9.ttf
-│   ├── fee66e712a8a08eef5805a46892932ad.woff
-│   ├── fonts
-│   │   └── fontawesome-webfont.eot
-│   ├── main.62f470dd.css
-│   ├── main.62f470dd.css.map
-│   └── main.8c1aa6c3.js
 └── yarn.lock                                       推荐使用yarn
 ```
 
 ## 开发
+
+## 开发前准备
+
+`git clone git@github.com:Alex-xd/there-are-lots-of-people-in-Baiyun-airport.git`
+
+`npm install` 或 `yarn install`
+
+`npm run init`
 
 ### 本地开发
 

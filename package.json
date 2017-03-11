@@ -1,7 +1,7 @@
 {
-    "name": "bigdata",
+    "name": "project-name",
     "version": "0.0.0",
-    "description": "There Are Lots Of People In Baiyun Airport",
+    "description": "description",
     "main": "main.js",
     "scripts": {
         "init": "./node_modules/.bin/commitizen init cz-conventional-changelog --save-dev --save-exact --force",
@@ -12,19 +12,18 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Alex-xd/there-are-lots-of-people-in-Baiyun-airport.git"
+        "url": "git+https://github.com:Alex-xd/webpack-scaffolds.git"
     },
     "keywords": [
-        "bigdata"
+        "keywords"
     ],
     "author": "Alex-xd",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/Alex-xd/there-are-lots-of-people-in-Baiyun-airport/issues"
+        "url": "https://github.com/Alex-xd/webpack-scaffolds/issues"
     },
-    "homepage": "https://github.com/Alex-xd/there-are-lots-of-people-in-Baiyun-airport#readme",
+    "homepage": "https://github.com/Alex-xd/webpack-scaffolds#readme",
     "dependencies": {
-        "echarts": "^3.4.0",
         "jquery": "^3.1.1"
     },
     "devDependencies": {
